@@ -1,0 +1,35 @@
+.carousel.item{
+    height: 500px;
+}
+
+.carousel-image-1{
+    background-image: url('img/amplifier-guitar-electric-guitar-fender.jpg');
+    background-size: cover;
+    height: 600px;
+    align-self: center;
+}
+
+.carousel-image-2{
+    background-image: url('img/guitars-2912447__340.webp');
+    background-size: cover;
+    height: 600px;
+    align-self: center;
+    
+}
+
+.carousel-image-3{
+    background-image: url('img/headsets-1971383__340.jpg');
+    background-size: cover;
+    height: 600px;
+    align-self: center;
+ 
+}
+
+
+.carousel-image-4{
+    background-image: url('img/music-player-2951399__340.webp');
+    background-size: cover;
+    height: 600px;
+    align-self: center;
+    
+}
